@@ -7,7 +7,7 @@ namespace CheckersGame.Controller
     {
         /// <summary>
         /// If the IPlayer needs information, or the ability to look
-        /// forward, it needs the game model.
+        /// forward, it needs the game model..
         /// If the player doesn't use that info, you can pass in null
         /// </summary>
         /// <param name="gameModel"></param>
