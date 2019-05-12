@@ -87,6 +87,8 @@ namespace CheckersGame.Controller
         /// Shuffles using a ficher yates shuffle. Used to ensure that given 2 moves of equal value
         /// The chosen one will be not always be the first in the list.
         /// </summary>
+        /// /// The main entry point for the application...........
+        /// /// The main entry point for the application...........
         /// <typeparam name="T"></typeparam>
         /// <param name="toShuffle"></param>
         /// <returns></returns>
